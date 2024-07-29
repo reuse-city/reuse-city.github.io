@@ -1,0 +1,10 @@
+####################### Spotlight #########################
+style: "style1 orient-right content-align-left image-position-center onscroll-image-fade-in"
+id: "reuse"
+title : "Material Reuse"
+content: |
+  It is a consensus that recycling won't be enough to cope with the growing volume of materials being discarded everyday. The Reuse City studio has the mission of creating knowledge, technology and methodologies to increase the reuse of materials through systems-based approaches. It is borne out of a doctoral investigation titled "Generous cities – weaving commons-oriented systems for the reuse of excess materials in urban contexts".
+button: 
+  label: "Access the research wiki"
+  link: "https://wiki.reuse.city"
+image: "images/weave.jpg"
